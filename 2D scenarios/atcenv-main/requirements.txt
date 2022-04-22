@@ -1,0 +1,5 @@
+jsonargparse==4.1.4
+gym==0.18.3
+dataclasses==0.6
+shapely==1.7.1
+tqdm==4.62.3
